@@ -1,0 +1,251 @@
+[INFO ] 2020-10-30 11:09:39.762 [main] LogThis - a new warrior,mikey, has entered the arena
+[INFO ] 2020-10-30 11:09:39.770 [main] LogThis - a new warrior,steven, has entered the arena
+[INFO ] 2020-10-30 14:06:15.135 [main] LogThis - a new warrior,mikey, has entered the arena
+[INFO ] 2020-10-30 14:06:15.141 [main] LogThis - a new warrior,steven, has entered the arena
+[INFO ] 2020-10-30 14:11:09.029 [main] LogThis - a new warrior,mikey, has entered the arena
+[INFO ] 2020-10-30 14:11:09.039 [main] LogThis - a new warrior,steven, has entered the arena
+[INFO ] 2020-10-30 14:23:27.738 [main] LogThis - a new warrior,mikey, has entered the arena
+[INFO ] 2020-10-30 14:23:27.744 [main] LogThis - a new warrior,steven, has entered the arena
+[INFO ] 2020-10-30 18:53:24.639 [main] LogThis - a new warrior,Jimbo, has entered the arena
+[INFO ] 2020-10-30 18:53:24.646 [main] LogThis - a new warrior,Sir Cranston, has entered the arena
+[INFO ] 2020-10-30 21:18:34.348 [main] LogThis - a new warrior,Greg, has entered the arena
+[INFO ] 2020-10-30 21:18:34.353 [main] LogThis - Greg was created!
+[INFO ] 2020-10-30 21:22:28.817 [main] LogThis - a new warrior,Zoltar, has entered the arena
+[INFO ] 2020-10-30 21:22:28.817 [main] LogThis - Zoltar was created!
+[INFO ] 2020-10-30 22:33:18.191 [main] LogThis - a new warrior,CatDog, has entered the arena
+[INFO ] 2020-10-30 22:33:18.196 [main] LogThis - CatDog was created!
+[INFO ] 2020-10-30 22:35:26.446 [main] LogThis - steven just punched CatDog and it costs them 4 points of damage
+[INFO ] 2020-11-01 02:58:59.070 [main] LogThis - a new warrior,Tommy, has entered the arena
+[INFO ] 2020-11-01 03:01:13.950 [main] LogThis - a new warrior,Tommy, has entered the arena
+[INFO ] 2020-11-01 03:01:23.377 [main] LogThis - a new warrior,Tommy, has entered the arena
+[INFO ] 2020-11-01 03:04:16.440 [main] LogThis - a new customer,Tommy, has sign up to open an account.
+[INFO ] 2020-11-01 13:23:49.857 [main] LogThis - a new warrior,Busayomi, has entered the arena
+[INFO ] 2020-11-01 13:24:38.207 [main] LogThis - a new warrior,Busayomi, has entered the arena
+[INFO ] 2020-11-01 13:26:21.957 [main] LogThis - A new Customer,Busayomi, has Register to Open an Account
+[INFO ] 2020-11-01 13:28:01.002 [main] LogThis - A new Customer,Busayomi, has Register to Open an Account
+[INFO ] 2020-11-02 12:37:18.827 [main] LogThis - a new warrior,Spinach, has entered the arena
+[INFO ] 2020-11-02 12:39:39.408 [main] LogThis - A new Recipe of, Spinach, is now available in my Kitchen
+[INFO ] 2020-11-02 12:41:29.796 [main] LogThis - A new Recipe of, Spinach, is now available in my Kitchen
+[INFO ] 2020-11-02 12:44:44.172 [main] LogThis - A new Recipe of, Spinach, is now available in my Kitchen
+[INFO ] 2020-11-02 12:47:05.876 [main] LogThis - A new Recipe of, Spinach, is now available in my Kitchen
+[INFO ] 2020-11-02 15:04:30.337 [main] LogThis - a new warrior,busayomi, has entered the arena
+[INFO ] 2020-11-02 15:04:30.342 [main] LogThis - busayomi was created!
+[INFO ] 2020-11-02 15:06:58.972 [main] LogThis - busayomi just punched steven and it costs them 300 points of damage
+[INFO ] 2020-11-02 15:09:59.550 [main] LogThis - busayomi just punched Greg and it costs them 300 points of damage
+[INFO ] 2020-11-04 04:38:41.824 [main] LogThis - A new Customer,BusayomiBusayomi , has Register to Open an Account
+[INFO ] 2020-11-04 04:38:41.850 [main] LogThis - BusayomiOlayiwola was created!
+[INFO ] 2020-11-04 04:45:32.876 [main] LogThis - A new Customer,solomon Babalola , has Register to Open an Account
+[INFO ] 2020-11-04 04:45:32.880 [main] LogThis - solomon Babalola was created!
+[INFO ] 2020-11-05 10:11:22.021 [main] LogThis - A new Customer,seyi  , has Register to Open an Account
+[INFO ] 2020-11-05 10:11:22.044 [main] LogThis - seyi  was created!
+[INFO ] 2020-11-05 10:15:54.865 [main] LogThis - A new Customer,nini ola , has Register to Open an Account
+[INFO ] 2020-11-05 10:15:54.873 [main] LogThis - nini ola was created!
+[INFO ] 2020-11-05 10:21:21.415 [main] LogThis - A new Customer,micheal bablo , has Register to Open an Account
+[INFO ] 2020-11-05 10:21:21.417 [main] LogThis - micheal bablo was created!
+[INFO ] 2020-11-05 10:29:31.218 [main] LogThis - A new Customer,debra onoge , has Register to Open an Account
+[INFO ] 2020-11-05 10:29:31.226 [main] LogThis - debra onoge was created!
+[INFO ] 2020-11-05 17:46:11.990 [main] LogThis - a new baby,Michelle, has entered the chat
+[INFO ] 2020-11-05 17:47:09.003 [main] LogThis - a new baby,Michelle, has entered the chat
+[INFO ] 2020-11-05 17:47:46.092 [main] LogThis - a new baby,Michelle, has entered the chat
+[INFO ] 2020-11-05 18:32:22.570 [main] LogThis - a new baby,Michelle, has entered the chat
+[INFO ] 2020-11-05 18:34:49.801 [main] LogThis - a new baby,ola, has entered the chat
+[INFO ] 2020-11-05 18:36:17.562 [main] LogThis - Michelle just punched ola and it costs them 0.0 points of damage
+[INFO ] 2020-11-08 03:46:00.999 [main] LogThis - A new Customer,desire enaohoro , has Register to Open an Account
+[INFO ] 2020-11-08 03:46:01.007 [main] LogThis - desire enaohoro was created!
+[INFO ] 2020-11-08 03:53:00.906 [main] LogThis - A new Customer,nike  enahoro , has Register to Open an Account
+[INFO ] 2020-11-08 03:53:00.910 [main] LogThis - nike  enahoro was created!
+[INFO ] 2020-11-08 18:04:57.713 [main] LogThis - A new Customer,danish adewunmi , has Register to Open an Account
+[INFO ] 2020-11-08 18:04:57.727 [main] LogThis - danish adewunmi was created!
+[INFO ] 2020-11-08 18:32:03.874 [main] LogThis - A new Customer,aris carrol , has Register to Open an Account
+[INFO ] 2020-11-08 18:32:03.879 [main] LogThis - aris carrol was created!
+[INFO ] 2020-11-08 18:33:18.872 [main] LogThis - A withdraw was made of,100.0 , the new balance is 100.0
+[INFO ] 2020-11-08 18:38:10.557 [main] LogThis - A withdraw was made of,100.0 , the new balance is 100.0
+[INFO ] 2020-11-08 18:42:55.141 [main] LogThis - A withdraw was made of,100.0 , the new balance is 100.0
+[INFO ] 2020-11-08 18:46:28.034 [main] LogThis - A withdraw was made of,100.0 , the new balance is 100.0
+[INFO ] 2020-11-08 18:47:06.911 [main] LogThis - A withdraw was made of,50.0 , the new balance is 50.0
+[INFO ] 2020-11-08 19:40:38.733 [main] LogThis - A withdraw was made of,100.0 , the new balance is 100.0
+[INFO ] 2020-11-08 19:43:42.778 [main] LogThis - A withdraw was made of 100.0 the new balance is 100.0
+[INFO ] 2020-11-08 19:44:51.525 [main] LogThis - A withdraw was made of 100.0 the new balance is 100.0
+[INFO ] 2020-11-08 19:48:17.278 [main] LogThis - A withdraw was made of 100.0 the new balance is 100.0
+[INFO ] 2020-11-08 19:53:39.909 [main] LogThis - A withdraw was made of 100.0 the new balance is 100.0
+[INFO ] 2020-11-08 19:53:53.709 [main] LogThis - A withdraw was made of 50.0 the new balance is 50.0
+[INFO ] 2020-11-08 20:00:16.701 [main] LogThis - A withdraw was made of 100.0 the new balance is 100.0
+[INFO ] 2020-11-08 20:02:02.786 [main] LogThis - A withdraw was made of 20.0 the new balance is 80.0
+[INFO ] 2020-11-08 20:12:44.653 [main] LogThis - A withdraw was made of 100.0 the new balance is 100.0
+[INFO ] 2020-11-08 20:14:14.490 [main] LogThis - A withdraw was made of 100.0 the new balance is 100.0
+[INFO ] 2020-11-08 20:17:12.422 [main] LogThis - A withdraw was made of 100.0 the new balance is 100.0
+[INFO ] 2020-11-08 20:20:46.448 [main] LogThis - A withdraw was made of 100.0 the new balance is 100.0
+[INFO ] 2020-11-08 20:24:30.143 [main] LogThis - A withdraw was made of 100.0 the new balance is 100.0
+[INFO ] 2020-11-08 20:24:58.546 [main] LogThis - A withdraw was made of 50.0 the new balance is 50.0
+[INFO ] 2020-11-08 20:26:23.590 [main] LogThis - A withdraw was made of 100.0 the new balance is 100.0
+[INFO ] 2020-11-08 20:26:32.295 [main] LogThis - A withdraw was made of 50.0 the new balance is 50.0
+[INFO ] 2020-11-08 20:29:06.652 [main] LogThis - A withdraw was made of 100.0 the new balance is 100.0
+[INFO ] 2020-11-08 20:29:15.411 [main] LogThis - A withdraw was made of 50.0 the new balance is 50.0
+[INFO ] 2020-11-08 20:31:42.382 [main] LogThis - aris carrol was viewed!
+[INFO ] 2020-11-08 20:35:33.290 [main] LogThis - A withdraw was made of 100.0 the new balance is 100.0
+[INFO ] 2020-11-08 20:35:45.371 [main] LogThis - A withdraw was made of 50.0 the new balance is 50.0
+[INFO ] 2020-11-08 20:37:01.275 [main] LogThis - aris carrol was viewed!
+[INFO ] 2020-11-08 20:37:27.845 [main] LogThis - desire enaohoro was viewed!
+[INFO ] 2020-11-08 20:38:47.334 [main] LogThis - desire enaohoro was viewed!
+[INFO ] 2020-11-09 10:39:48.228 [main] LogThis - A new Customer,anny ola , has Register to Open an Account
+[INFO ] 2020-11-09 10:39:48.242 [main] LogThis - anny ola was created!
+[INFO ] 2020-11-09 10:40:58.396 [main] LogThis - A withdraw was made of 20.0 the new balance is 20.0
+[INFO ] 2020-11-09 10:41:11.473 [main] LogThis - A withdraw was made of 5.0 the new balance is 15.0
+[INFO ] 2020-11-09 10:43:19.540 [main] LogThis - anny ola was viewed!
+[INFO ] 2020-11-09 12:29:25.868 [main] LogThis - A new Customer,Busayomi Olayiwola , has Register to Open an Account
+[INFO ] 2020-11-09 12:29:25.898 [main] LogThis - A withdraw was made of 0.0 the new balance is 0.0
+[INFO ] 2020-11-09 13:08:21.060 [main] LogThis - A new CustomerBusayomi Olayiwola has Register to Opened an Account
+[INFO ] 2020-11-09 13:08:21.072 [main] LogThis - A withdraw was made of 0.0 the new balance is 0.0
+[INFO ] 2020-11-09 13:09:42.572 [main] LogThis - A new CustomerBusayomi Olayiwola has Register to Opened an Account
+[INFO ] 2020-11-09 13:10:18.568 [main] LogThis - A new CustomerBusayomi Olayiwola has Register to Opened an Account
+[INFO ] 2020-11-09 13:10:18.580 [main] LogThis - A withdraw was made of 0.0 the new balance is 0.0
+[INFO ] 2020-11-09 14:03:02.256 [main] LogThis - A new CustomerBusayomi Olayiwola has Register to Opened an Account
+[INFO ] 2020-11-09 14:03:02.269 [main] LogThis - A withdraw was made of 0.0 the new balance is 0.0
+[INFO ] 2020-11-09 14:04:04.830 [main] LogThis - A withdraw was made of 100.0 the new balance is 100.0
+[INFO ] 2020-11-09 14:04:24.038 [main] LogThis - A withdraw was made of 20.0 the new balance is 80.0
+[INFO ] 2020-11-09 14:05:41.105 [main] LogThis - A new Customermonsurat lasisi has Register to Opened an Account
+[INFO ] 2020-11-09 14:05:41.105 [main] LogThis - monsurat lasisi was created!
+[INFO ] 2020-11-09 15:10:45.138 [main] LogThis - A new Customerdona gold has Register to Opened an Account
+[INFO ] 2020-11-09 15:10:45.144 [main] LogThis - dona gold was created!
+[INFO ] 2020-11-09 15:31:22.957 [main] LogThis - A new Customer Busayomi Olayiwola has Register to Opened an Account
+[INFO ] 2020-11-09 15:31:22.970 [main] LogThis - A withdraw was made of 0.0 the new balance is 0.0
+[INFO ] 2020-11-09 15:33:19.771 [main] LogThis - A new Customer Busayomi Olayiwola has Register to Opened an Account
+[INFO ] 2020-11-09 15:33:19.786 [main] LogThis - A withdraw was made of 0.0 the new balance is 0.0
+[INFO ] 2020-11-09 15:33:19.787 [main] LogThis - A withdraw was made of 0.0 the new balance is 0.0
+[INFO ] 2020-11-09 15:46:32.267 [main] LogThis - A new Customer gold jones has Register to Opened an Account
+[INFO ] 2020-11-09 15:46:32.278 [main] LogThis - gold jones was created!
+[INFO ] 2020-11-09 15:47:36.805 [main] LogThis - A withdraw was made of 100.0 the new balance is 100.0
+[INFO ] 2020-11-09 15:47:54.387 [main] LogThis - A withdraw was made of 20.0 the new balance is 80.0
+[INFO ] 2020-11-09 15:48:51.828 [main] LogThis - gold jones was viewed!
+[INFO ] 2020-11-09 16:46:17.159 [main] LogThis - A new Customer Busayomi Olayiwola has Register to Opened an Account
+[INFO ] 2020-11-09 16:46:17.249 [main] LogThis - A withdraw was made of 200.0 the new balance is 200.0
+[INFO ] 2020-11-09 16:46:17.344 [main] LogThis - A withdraw was made of 0.0 the new balance is 200.0
+[INFO ] 2020-11-09 16:47:37.018 [main] LogThis - A new Customer Busayomi Olayiwola has Register to Opened an Account
+[INFO ] 2020-11-09 16:47:37.043 [main] LogThis - A withdraw was made of 20.0 the new balance is 20.0
+[INFO ] 2020-11-09 16:47:37.060 [main] LogThis - A withdraw was made of 0.0 the new balance is 20.0
+[INFO ] 2020-11-09 16:48:50.672 [main] LogThis - A new Customer Busayomi Olayiwola has Register to Opened an Account
+[INFO ] 2020-11-09 16:48:50.693 [main] LogThis - A withdraw was made of 0.0 the new balance is 0.0
+[INFO ] 2020-11-09 17:40:07.613 [main] LogThis - A new Customer Busayomi Olayiwola has Register to Opened an Account
+[INFO ] 2020-11-09 17:40:07.641 [main] LogThis - A withdraw was made of 20.0 the new balance is 20.0
+[INFO ] 2020-11-09 17:40:07.645 [main] LogThis - A withdraw was made of 0.0 the new balance is 20.0
+[INFO ] 2020-11-09 17:44:18.522 [main] LogThis - A new Customer Busayomi Olayiwola has Register to Opened an Account
+[INFO ] 2020-11-09 17:44:18.549 [main] LogThis - A withdraw was made of 20.0 the new balance is 20.0
+[INFO ] 2020-11-09 17:44:18.557 [main] LogThis - A withdraw was made of 20.0 the new balance is 0.0
+[INFO ] 2020-11-09 17:45:43.937 [main] LogThis - A new Customer Busayomi Olayiwola has Register to Opened an Account
+[INFO ] 2020-11-09 17:45:43.961 [main] LogThis - A withdraw was made of 20.0 the new balance is 20.0
+[INFO ] 2020-11-09 17:45:43.965 [main] LogThis - A withdraw was made of 10.0 the new balance is 10.0
+[INFO ] 2020-11-10 01:35:54.535 [main] LogThis - A new Customer Busayomi Olayiwola has Register to Opened an Account
+[INFO ] 2020-11-10 01:35:54.548 [main] LogThis - A deposit was made of 20.0 the new balance is 20.0
+[INFO ] 2020-11-10 01:35:54.550 [main] LogThis - A withdraw was made of 10.0 the new balance is 10.0
+[INFO ] 2020-11-17 06:12:37.956 [main] LogThis - desire enahoro was created!
+[INFO ] 2020-11-17 06:24:05.620 [main] LogThis - danish adediwura was created!
+[INFO ] 2020-11-17 06:26:54.992 [main] LogThis - null nulllogged in!
+[INFO ] 2020-11-17 06:35:08.545 [main] LogThis - lekan show was created!
+[INFO ] 2020-11-17 06:36:15.383 [main] LogThis - null nulllogged in!
+[INFO ] 2020-11-17 06:43:47.592 [main] LogThis - yemi olu was created!
+[INFO ] 2020-11-17 06:44:54.490 [main] LogThis - null nulllogged in!
+[INFO ] 2020-11-17 06:46:40.179 [main] LogThis - A deposit was made of 100.0 the new balance is 100.0
+[INFO ] 2020-11-17 07:13:52.518 [main] LogThis - null nulllogged in!
+[INFO ] 2020-11-17 07:14:07.542 [main] LogThis - A deposit was made of 100.0 the new balance is Account [accountId=0, balance=100.0, accountType=null]
+[INFO ] 2020-11-17 07:14:07.542 [main] LogThis - A deposit was made of 100.0 the new balance is 100.0
+[INFO ] 2020-11-17 07:14:07.982 [main] LogThis - A deposit was made of 100.0 the new balance is Account [accountId=0, balance=100.0, accountType=null]
+[INFO ] 2020-11-17 07:14:07.982 [main] LogThis - A deposit was made of 100.0 the new balance is 100.0
+[INFO ] 2020-11-17 07:26:22.790 [main] LogThis - null nulllogged in!
+[INFO ] 2020-11-17 07:29:41.939 [main] LogThis - A deposit was made of 100.0 the new balance is Account [accountId=0, balance=100.0, accountType=null]
+[INFO ] 2020-11-17 07:29:41.942 [main] LogThis - A deposit was made of 100.0 the new balance is 100.0
+[INFO ] 2020-11-17 07:30:03.526 [main] LogThis - A deposit was made of 100.0 the new balance is Account [accountId=0, balance=100.0, accountType=null]
+[INFO ] 2020-11-17 07:30:03.528 [main] LogThis - A deposit was made of 100.0 the new balance is 100.0
+[INFO ] 2020-11-17 12:25:16.129 [main] LogThis - null nulllogged in!
+[INFO ] 2020-11-17 12:36:08.487 [main] LogThis - null nulllogged in!
+[INFO ] 2020-11-17 12:36:27.459 [main] LogThis - A deposit was made of 100.0 the new balance is Account [accountId=0, balance=100.0, accountType=null]
+[INFO ] 2020-11-17 12:36:27.460 [main] LogThis - A deposit was made of 100.0 the new balance is 100.0
+[INFO ] 2020-11-17 12:36:27.914 [main] LogThis - A deposit was made of 100.0 the new balance is Account [accountId=0, balance=100.0, accountType=null]
+[INFO ] 2020-11-17 12:36:27.914 [main] LogThis - A deposit was made of 100.0 the new balance is 100.0
+[INFO ] 2020-11-17 14:15:55.345 [main] LogThis - null nulllogged in!
+[INFO ] 2020-11-17 18:53:31.473 [main] LogThis - null nulllogged in!
+[INFO ] 2020-11-17 19:03:00.826 [main] LogThis - sandra omo was created!
+[INFO ] 2020-11-17 19:03:45.193 [main] LogThis - The user,null,  has logged in
+[INFO ] 2020-11-17 19:05:14.320 [main] LogThis - The user,sandraO,  has logged in
+[INFO ] 2020-11-17 19:10:15.572 [main] LogThis - The user,sandraO,  has logged in
+[INFO ] 2020-11-17 19:10:27.904 [main] LogThis - A deposit was made of 100.0 the new balance is Account [accountId=0, balance=100.0, accountType=null]
+[INFO ] 2020-11-17 19:10:27.904 [main] LogThis - A deposit was made of 100.0 the new balance is 100.0
+[INFO ] 2020-11-17 19:10:28.365 [main] LogThis - A deposit was made of 100.0 the new balance is Account [accountId=0, balance=100.0, accountType=null]
+[INFO ] 2020-11-17 19:10:28.366 [main] LogThis - A deposit was made of 100.0 the new balance is 100.0
+[INFO ] 2020-11-17 19:36:52.218 [main] LogThis - The user,sandraO,  has logged in
+[INFO ] 2020-11-17 19:59:17.112 [main] LogThis - The user,sandraO,  has logged in
+[INFO ] 2020-11-17 20:08:06.220 [main] LogThis - The user,sandraO,  has logged in
+[INFO ] 2020-11-17 20:47:38.807 [main] LogThis - michelle babalola was created!
+[INFO ] 2020-11-17 20:50:32.410 [main] LogThis - admin password was created!
+[INFO ] 2020-11-17 20:55:34.282 [main] LogThis - admin1 password1 was created!
+[INFO ] 2020-11-17 20:58:56.884 [main] LogThis - register gist was created!
+[INFO ] 2020-11-17 21:02:11.818 [main] LogThis - abi aye was created!
+[INFO ] 2020-11-17 21:03:09.323 [main] LogThis - The user,abiy,  has logged in
+[INFO ] 2020-11-17 21:09:31.318 [main] LogThis - The user,abiy,  has logged in
+[INFO ] 2020-11-17 21:13:37.228 [main] LogThis - The user,abiy,  has logged in
+[INFO ] 2020-11-17 21:19:00.717 [main] LogThis - The user,abiy,  has logged in
+[INFO ] 2020-11-17 21:20:23.843 [main] LogThis - baby boy was created!
+[INFO ] 2020-11-17 21:20:49.818 [main] LogThis - The user,babyy,  has logged in
+[INFO ] 2020-11-18 04:31:29.029 [main] LogThis - a new account,0, registered
+[INFO ] 2020-11-18 04:32:23.841 [main] LogThis - a new account,0, registered
+[INFO ] 2020-11-18 04:33:28.451 [main] LogThis - a new account,0, registered
+[INFO ] 2020-11-18 04:34:02.529 [main] LogThis - a new account,0, registered
+[INFO ] 2020-11-18 04:34:56.214 [main] LogThis -  2 was updated!
+[INFO ] 2020-11-18 04:36:48.279 [main] LogThis - a new account,candy, registered
+[INFO ] 2020-11-18 04:36:48.757 [main] LogThis - candy crush was created!
+[INFO ] 2020-11-18 04:36:48.758 [main] LogThis - a new account,1, registered
+[INFO ] 2020-11-18 04:52:24.701 [main] LogThis - a new account,0, registered
+[INFO ] 2020-11-18 04:53:05.816 [main] LogThis - a new account,bubble, registered
+[INFO ] 2020-11-18 04:53:07.120 [main] LogThis - bubble bee was created!
+[INFO ] 2020-11-18 04:53:49.608 [main] LogThis - a new account,0, registered
+[INFO ] 2020-11-18 04:56:31.791 [main] LogThis - a new account,0, registered
+[INFO ] 2020-11-18 04:57:20.744 [main] LogThis - a new account,bay, registered
+[INFO ] 2020-11-18 04:57:22.014 [main] LogThis - bay bablo was created!
+[INFO ] 2020-11-18 04:57:35.477 [main] LogThis - a new account,checkings, registered
+[INFO ] 2020-11-18 05:04:11.985 [main] LogThis - a new account,Busayomi, registered
+[INFO ] 2020-11-18 05:10:27.581 [main] LogThis - a new account,1, registered
+[INFO ] 2020-11-18 05:21:00.262 [main] LogThis - a new account,0, registered
+[INFO ] 2020-11-18 05:21:41.987 [main] LogThis - a new account,tolu, registered
+[INFO ] 2020-11-18 05:21:43.288 [main] LogThis - tolu ola was created!
+[INFO ] 2020-11-18 05:21:43.289 [main] LogThis - a new account,1, registered
+[INFO ] 2020-11-18 05:25:28.888 [main] LogThis - a new account,0, registered
+[INFO ] 2020-11-18 05:26:36.629 [main] LogThis - a new account,1, registered
+[INFO ] 2020-11-18 05:29:50.665 [main] LogThis - A deposit was made of 100.0 the new balance is 100.0
+[INFO ] 2020-11-18 05:29:51.553 [main] LogThis - A deposit was made of 100.0 the new balance is 100.0
+[INFO ] 2020-11-18 05:30:07.725 [main] LogThis - a new account,1, registered
+[INFO ] 2020-11-18 05:30:13.190 [main] LogThis - A withdraw was made of 20.0 the new balance is -20.0
+[INFO ] 2020-11-18 05:30:13.642 [main] LogThis - A withdraw was made of 20.0 the new balance is 80.0
+[INFO ] 2020-11-18 05:30:37.683 [main] LogThis - a new account,1, registered
+[INFO ] 2020-11-18 05:30:49.616 [main] LogThis - a new account,0, registered
+[INFO ] 2020-11-18 05:36:52.657 [main] LogThis - a new account,0, registered
+[INFO ] 2020-11-18 05:37:25.661 [main] LogThis - a new account,gift, registered1
+[INFO ] 2020-11-18 05:37:26.836 [main] LogThis - gift gold was created!
+[INFO ] 2020-11-18 05:38:20.342 [main] LogThis - a new account,0, registered
+[INFO ] 2020-11-18 05:40:15.199 [main] LogThis - a new account,1, registered
+[INFO ] 2020-11-18 05:41:02.570 [main] LogThis - A deposit was made of 100.0 the new balance is 100.0
+[INFO ] 2020-11-18 05:41:03.461 [main] LogThis - A deposit was made of 100.0 the new balance is 100.0
+[INFO ] 2020-11-18 05:41:07.554 [main] LogThis - a new account,1, registered
+[INFO ] 2020-11-18 05:41:14.195 [main] LogThis - A withdraw was made of 30.0 the new balance is -30.0
+[INFO ] 2020-11-18 05:41:14.643 [main] LogThis - A withdraw was made of 30.0 the new balance is 70.0
+[INFO ] 2020-11-18 05:41:36.201 [main] LogThis - a new account,1, registered
+[INFO ] 2020-11-18 05:41:47.511 [main] LogThis - a new account,0, registered
+[INFO ] 2020-11-18 05:42:04.419 [main] LogThis - a new account,0, registereda
+[INFO ] 2020-11-18 05:42:45.709 [main] LogThis - sugar daddy was created!
+[INFO ] 2020-11-18 05:43:15.629 [main] LogThis - a new account,0, registereda
+[INFO ] 2020-11-18 05:44:04.522 [main] LogThis - a new account,1, registeredc
+[INFO ] 2020-11-18 05:44:39.140 [main] LogThis - A deposit was made of 60.0 the new balance is 60.0
+[INFO ] 2020-11-18 05:44:40.050 [main] LogThis - A deposit was made of 60.0 the new balance is 60.0
+[INFO ] 2020-11-18 05:44:44.810 [main] LogThis - a new account,1, registeredc
+[INFO ] 2020-11-18 05:45:14.020 [main] LogThis - A withdraw was made of 10.0 the new balance is -10.0
+[INFO ] 2020-11-18 05:45:14.464 [main] LogThis - A withdraw was made of 10.0 the new balance is 50.0
+[INFO ] 2020-11-18 05:45:37.390 [main] LogThis - a new account,1, registeredc
+[INFO ] 2020-11-18 05:45:44.697 [main] LogThis - a new account,0, registereda
+[INFO ] 2020-11-18 05:53:45.967 [main] LogThis - sugar daddy was created!
+[INFO ] 2020-11-18 05:54:20.943 [main] LogThis - A deposit was made of 120.0 the new balance is 120.0
+[INFO ] 2020-11-18 05:54:21.824 [main] LogThis - A deposit was made of 120.0 the new balance is 120.0
+[INFO ] 2020-11-18 05:56:13.291 [main] LogThis - A withdraw was made of 20.0 the new balance is -20.0
+[INFO ] 2020-11-18 05:56:13.746 [main] LogThis - A withdraw was made of 20.0 the new balance is 100.0
+[INFO ] 2020-11-18 06:01:30.501 [main] LogThis - sugar daddy was created!
+[INFO ] 2020-11-18 06:03:41.569 [main] LogThis - A deposit was made of 120.0 the new balance is 120.0
+[INFO ] 2020-11-18 06:03:42.461 [main] LogThis - A deposit was made of 120.0 the new balance is 120.0
+[INFO ] 2020-11-18 06:04:07.258 [main] LogThis - A withdraw was made of 20.0 the new balance is -20.0
+[INFO ] 2020-11-18 06:04:07.703 [main] LogThis - A withdraw was made of 20.0 the new balance is 100.0
